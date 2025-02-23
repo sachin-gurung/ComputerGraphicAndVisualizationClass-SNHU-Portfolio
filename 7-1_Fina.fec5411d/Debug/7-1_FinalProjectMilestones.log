@@ -1,0 +1,11 @@
+﻿  MainCode.cpp
+  SceneManager.cpp
+C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(227,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(463,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(548,12): warning C4101: 'model': unreferenced local variable
+C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(544,12): warning C4101: 'scale': unreferenced local variable
+C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(546,12): warning C4101: 'rotation2': unreferenced local variable
+C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(545,12): warning C4101: 'rotation': unreferenced local variable
+C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(547,12): warning C4101: 'translation': unreferenced local variable
+  Generating Code...
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\SachinG\Desktop\SNHU\CS-330 Comp Graphic and Visualization\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
